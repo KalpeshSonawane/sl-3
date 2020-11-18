@@ -1,0 +1,47 @@
+body
+ {
+	background-color: #e2e2e2;
+	border: 1px solid black;
+	width:900px;
+	margin:0px auto;
+ }
+div
+  {
+	border:1px;
+	align:center;
+	color:green;
+	text align: center;
+  }
+div li
+ {
+	padding:15px;
+	float:left;
+	margin-top:-10px;
+ }
+ 
+ .mainhead
+{
+	background:transparent url(Untitled-4.gif) no-repeat;
+   	width:793px;
+ 	height:221px;
+}
+.kar
+	{
+	 background-position: -117px 0;
+	 border: 1px solid black;
+	 color:yellow;
+	 height: 50px;
+	 width: 80%;
+	 margin: 0 auto 6px;
+	 text-align: left;
+	}
+	
+	div.OK
+	{
+	 border: 1px solid black;
+	 width:10%;
+	 height:300px;
+	 align:center;
+	 color:green;
+	 text align: center;
+	}
